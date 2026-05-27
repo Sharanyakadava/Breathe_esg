@@ -1,0 +1,19 @@
+Meter ID,Site Name,Start Date,End Date,Consumption,Unit,Read Type,Tariff,Meter Type
+MTR-001-CHI,Chicago Manufacturing - Main,01/01/2024,01/31/2024,485000,kWh,Actual,Industrial-A,Electric
+MTR-001-CHI,Chicago Manufacturing - Main,02/01/2024,02/29/2024,462000,kWh,Actual,Industrial-A,Electric
+MTR-002-CHI,Chicago Manufacturing - HVAC Sub-meter,01/01/2024,01/31/2024,62000,kWh,Estimated,Industrial-A,Electric
+MTR-002-CHI,Chicago Manufacturing - HVAC Sub-meter,02/01/2024,02/29/2024,58000,kWh,Actual,Industrial-A,Electric
+MTR-003-LON,London HQ - Floors 1-10,17/01/2024,19/02/2024,28500,kWh,Actual,Business-HH,Electric
+MTR-003-LON,London HQ - Floors 1-10,19/02/2024,21/03/2024,26800,kWh,Actual,Business-HH,Electric
+MTR-004-MUN,Munich Plant - Production,01/01/2024,31/01/2024,195000,kWh,Actual,Gewerbe-HT,Electric
+MTR-004-MUN,Munich Plant - Production,01/02/2024,29/02/2024,188000,kWh,Actual,Gewerbe-HT,Electric
+MTR-005-SIN,Singapore Office,01/01/2024,31/01/2024,32000,kWh,Actual,CI,Electric
+MTR-005-SIN,Singapore Office,01/02/2024,29/02/2024,30500,kWh,Actual,CI,Electric
+MTR-006-HAM,Hamburg Warehouse - Main,01/01/2024,31/01/2024,88000,kWh,Actual,Gewerbe-NT,Electric
+MTR-006-HAM,Hamburg Warehouse - Main,01/02/2024,29/02/2024,82000,kWh,Actual,Gewerbe-NT,Electric
+MTR-007-AMS,Amsterdam DC,01/01/2024,31/01/2024,145000,kWh,Actual,Grootverbruik,Electric
+MTR-007-AMS,Amsterdam DC,01/02/2024,29/02/2024,138000,kWh,Actual,Grootverbruik,Electric
+MTR-008-CHI,Chicago Manufacturing - Lighting,01/01/2024,31/01/2024,18500,kWh,Estimated,Industrial-A,Electric
+MTR-001-CHI,Chicago Manufacturing - Main,03/01/2024,03/31/2024,510000,kWh,Actual,Industrial-A,Electric
+MTR-003-LON,London HQ - Floors 1-10,21/03/2024,22/04/2024,24200,kWh,Actual,Business-HH,Electric
+TOTAL,,,,,,,,

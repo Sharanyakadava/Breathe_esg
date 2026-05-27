@@ -1,0 +1,22 @@
+Expense Type,Employee,Trip Date,Return Date,Origin,Destination,Cabin,Vendor,Amount,Distance,Distance Unit,Country
+Air,Sarah Chen,2024-01-08,2024-01-12,ORD,LHR,Economy,British Airways,1240.00,,,
+Air,James Miller,2024-01-15,2024-01-18,LHR,CDG,Economy,Air France,380.00,,,
+Air,Priya Sharma,2024-01-22,2024-01-26,LHR,SIN,Business,Singapore Airlines,4800.00,,,
+Air,Tom Walsh,2024-02-05,2024-02-07,JFK,LAX,Economy,United Airlines,520.00,,,
+Air,Sarah Chen,2024-02-12,2024-02-15,LHR,FRA,Economy,Lufthansa,290.00,,,
+Air,Emma Davis,2024-02-19,2024-02-22,ORD,NRT,Business,ANA,5200.00,,,
+Air,James Miller,2024-03-04,2024-03-06,CDG,AMS,Economy,KLM,180.00,,,
+Air,Priya Sharma,2024-03-11,2024-03-14,SIN,HKG,Economy,Cathay Pacific,420.00,,,
+Hotel,Sarah Chen,2024-01-08,2024-01-12,,,,,960.00,,,US
+Hotel,Sarah Chen,2024-01-08,2024-01-12,,,,,960.00,,,GB
+Hotel,James Miller,2024-01-15,2024-01-18,,,,Mercure Paris CDG,420.00,,,FR
+Hotel,Priya Sharma,2024-01-22,2024-01-26,,,,Marina Bay Sands,2200.00,,,SG
+Hotel,Tom Walsh,2024-02-05,2024-02-07,,,,Marriott LAX,480.00,,,US
+Hotel,Emma Davis,2024-02-19,2024-02-22,,,,Park Hyatt Tokyo,3100.00,,,JP
+Car Rental,Sarah Chen,2024-01-08,,,,,,320.00,480,km,US
+Taxi,James Miller,2024-01-15,,,,,Local taxi CDG,45.00,,,
+Uber,Tom Walsh,2024-02-05,,,,,Uber LAX,38.00,,,
+Train,James Miller,2024-03-04,,,,,Thalys Amsterdam,85.00,180,km,
+Car Rental,Emma Davis,2024-02-19,,,,,Budget Rental Tokyo,380.00,350,km,JP
+Taxi,Priya Sharma,2024-01-22,,,,,Singapore taxi,25.00,,,SG
+Air,Unknown Traveler,2024-01-30,,XYZ,ABC,Economy,Unknown Airline,350.00,,,
